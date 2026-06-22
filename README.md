@@ -36,7 +36,7 @@
 | 策略管理 | K线持仓 |
 |:---:|:---:|
 | ![策略管理](<img width="2560" height="1430" alt="策略管理" src="https://github.com/user-attachments/assets/74b0f536-b2e2-469c-b2ed-0b904f44aec6" />
-) | ![K线持仓](<img width="2560" height="1430" alt="k线持仓" src="https://github.com/user-attachments/assets/86d483bf-5949-4477-80ac-54aaebd4db80" />
+) | ![K线持仓](<img width="2560" height="1430" alt="k线持仓" src="https://github.com/user-attachments/assets/41bf24da-51aa-4787-87f6-ec4aa78611a7" />
 ) |
 
 ![策略日志](<img width="2560" height="1430" alt="策略日志" src="https://github.com/user-attachments/assets/9d61f045-9f93-43fd-ab41-39df66611929" />
