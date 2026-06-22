@@ -5,6 +5,12 @@
 ## ✨ 主要功能
 
 ### 🔍 市场分析
+
+多维度技术分析、AI 深度推理、多周期共振、分时图分析与相关品种联动。
+
+![行情K线预览](<img width="2560" height="1600" alt="行情k线预览" src="https://github.com/user-attachments/assets/f42d1feb-b558-43a5-b8b9-099ed66afea8" />
+)
+
 - **多维度技术分析** — MACD、RSI、布林带、均线系统、成交量分析等 20+ 技术指标
 - **AI 深度推理** — 调用 DeepSeek 大模型生成市场形势判断、趋势预测与操作建议
 - **多周期共振分析** — 日线/周线/月线/分钟线多周期联动，识别周期共振信号
@@ -12,12 +18,30 @@
 - **相关品种联动** — 分组管理相关品种，联动分析产业链上下游
 
 ### 📊 实时看盘
+
+实时行情 + AI 即时解读，交互式 K 线图表 + 自动刷新。
+
+![实时看盘xAI分析](<img width="2560" height="1430" alt="实时看盘分析xAI分析" src="https://github.com/user-attachments/assets/dccaf22e-d2e2-44c3-bd4d-c1afedfea279" />
+)
+
 - **实时数据获取** — 通过 Tushare / AkShare 获取期货实时行情
 - **AI 实时解读** — 对当前盘面进行即时分析，给出操作建议
 - **专业 K 线图表** — 交互式 Plotly 图表，支持多副图指标叠加
 - **自动刷新** — 可配置自动刷新间隔，实时追踪行情变化
 
 ### 🎯 策略跟踪
+
+策略管理、持仓追踪与操作日志，全流程闭环。
+
+| 策略管理 | K线持仓 |
+|:---:|:---:|
+| ![策略管理](<img width="2560" height="1430" alt="策略管理" src="https://github.com/user-attachments/assets/74b0f536-b2e2-469c-b2ed-0b904f44aec6" />
+) | ![K线持仓](<img width="2560" height="1430" alt="k线持仓" src="https://github.com/user-attachments/assets/86d483bf-5949-4477-80ac-54aaebd4db80" />
+) |
+
+![策略日志](<img width="2560" height="1430" alt="策略日志" src="https://github.com/user-attachments/assets/9d61f045-9f93-43fd-ab41-39df66611929" />
+)
+
 - **策略采用与管理** — 一键采用 AI 建议的策略，记录入场/止损/目标价位
 - **AI 持续跟踪** — 每次分析自动对比策略状态，给出持有/调整/止损建议
 - **震荡容忍优化** — 智能区分正常震荡回调与趋势反转，避免频繁止损
